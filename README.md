@@ -6,12 +6,8 @@ https://blueprintue.com/blueprint/w41b3n1y/
 
 -플레이어 사용 아이템 블루프린트-
 
-배터리: https://blueprintue.com/blueprint/zgmycoj9/
-키: https://blueprintue.com/blueprint/88gprfgi/
-약통: https://blueprintue.com/blueprint/o3q4hi51/
-방독면: https://blueprintue.com/blueprint/g00d--9s/
-정화통: https://blueprintue.com/blueprint/v0j3j1oo/
-성냥: https://blueprintue.com/blueprint/ti2uddx9/
+배터리: https://blueprintue.com/blueprint/zgmycoj9/ , 키: https://blueprintue.com/blueprint/88gprfgi/ , 약통: https://blueprintue.com/blueprint/o3q4hi51/
+방독면: https://blueprintue.com/blueprint/g00d--9s/ , 정화통: https://blueprintue.com/blueprint/v0j3j1oo/ , 성냥: https://blueprintue.com/blueprint/ti2uddx9/
 
 
 -맵 설치성 아이템 블루프린트-
