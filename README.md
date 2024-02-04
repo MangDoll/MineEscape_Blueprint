@@ -4,7 +4,9 @@ MineEscape 게임의 블루프린트 코드 링크입니다.
 캐릭터 블루 프린트 :
 https://blueprintue.com/blueprint/w41b3n1y/
 
+
 -플레이어 사용 아이템 블루프린트-
+
 
 배터리: 
 https://blueprintue.com/blueprint/zgmycoj9/
@@ -27,6 +29,7 @@ https://blueprintue.com/blueprint/ti2uddx9/
 
 -맵 설치성 아이템 블루프린트-
 
+
 문: 
 https://blueprintue.com/blueprint/idhnu7--/
 
@@ -45,7 +48,9 @@ https://blueprintue.com/blueprint/ezcprn_a/
 리프트:
 https://blueprintue.com/blueprint/ao9r8ygl/
 
+
 -탈출 아이템 블루프린트-
+
 
 드라이버: 
 https://blueprintue.com/blueprint/ib6jefsa/
@@ -62,7 +67,9 @@ https://blueprintue.com/blueprint/mif-tn9e/
 테이프: 
 https://blueprintue.com/blueprint/m_8czat9/
 
+
 -플레이어 방해 요소(Enemy) 블루프린트-
+
 
 괴물: 
 https://blueprintue.com/blueprint/2c_sc5un/
